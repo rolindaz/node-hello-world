@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/rolindaz/node-hello-world/issues"
   },
-  "homepage": "https://github.com/rolindaz/node-hello-world#readme"
+  "homepage": "https://github.com/rolindaz/node-hello-world#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^16.5.0"
+  }
 }
